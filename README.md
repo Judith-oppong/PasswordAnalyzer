@@ -16,4 +16,4 @@ A real-time password strength evaluation tool built with Python and Streamlit.
 3. Run: streamlit run app.py
 
 ## Project Context
-Built as a dissertation project exploring hybrid password strength evaluation.
+This system is built as my dissertation project which explores hybrid password strength evaluation( entropy calculation,, brute-force estimation, real-time feedback, color-coded indicator).
