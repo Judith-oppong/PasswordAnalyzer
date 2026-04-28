@@ -15,5 +15,7 @@ A real-time password strength evaluation tool built with Python and Streamlit.
 2. Install dependencies: pip install -r requirements.txt
 3. Run: streamlit run app.py
 
+NB: The statistics panel populates automatically after clicking Analyze and LOg. NO setup required.
+
 ## Project Context
 This system is built as my dissertation project which explores hybrid password strength evaluation( entropy calculation,, brute-force estimation, real-time feedback, color-coded indicator).
